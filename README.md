@@ -58,3 +58,7 @@ This project demonstrates the use of **OSPF (Open Shortest Path First)** routing
 ## Project Files
 
 - `.pkt` file containing the full Packet Tracer simulation.
+--
+## Additional Information
+
+- All routers have **hw6** enable password.
